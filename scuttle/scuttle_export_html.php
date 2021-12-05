@@ -17,7 +17,7 @@
  */
 
 /*
-    CODE MODIFIED by q2apro / memelpower.com for Scuttle HTML Export
+    CODE MODIFIED for Scuttle HTML Export
     SEE https://github.com/q2apro/scuttle-to-shaarli
 */
 
